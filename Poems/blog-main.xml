@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Poems</title>
+    <link>http://rpang808.github.io/RTPWaveProject/Poems</link>
+    <description>Powerful Words and Breathtaking photography are the closest description, 
+aside from the actual experience.
+Go Pro // iPhone 5s // Ocean // Nature
+Sandy Beach // Makapuu // Hawaii
+
+
+
+</description>
+    <item>
+      <title>Ecstasy (incomplete)</title>
+      <link>http://rpang808.github.io/RTPWaveProject/Poems/Entries/2014/4/5_Entry_1.html</link>
+      <guid isPermaLink="false">f4b21e8f-9c31-440f-b288-7810ea04a460</guid>
+      <pubDate>Sat, 5 Apr 2014 12:45:58 -1000</pubDate>
+      <description>A mighty pull...&lt;br/&gt;Thousands of gallons of ocean water sift away from the opposing sands&lt;br/&gt;Revealed is a wave, &lt;br/&gt;</description>
+      <iweb:image href="Media/object011.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://rpang808.github.io/RTPWaveProject/Poems/Entries/2014/4/5_Entry_1.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Contrast</title>
+      <link>http://rpang808.github.io/RTPWaveProject/Poems/Entries/2014/4/5_Contrast_of_the_Ocean.html</link>
+      <guid isPermaLink="false">fd165eb2-28ea-415c-85c7-cad0d0ab6060</guid>
+      <pubDate>Sat, 5 Apr 2014 12:35:08 -1000</pubDate>
+      <description>As the wave approaches, &lt;br/&gt;It slowly swells to a menacing size.&lt;br/&gt;It&#x2019;s deep blue mass slides dangerously.&lt;br/&gt;I paddle towards it, and my heart pumps violently.&lt;br/&gt;The icy water ripples through my fingers.&lt;br/&gt;Looking into the intimidating blue wall, there is a reflection of myself.&lt;br/&gt;An unmatched glow of excitement and anxiety shines in my eyes,&lt;br/&gt;But i tremble, my confidence wavers and for just a split second I doubt myself.&lt;br/&gt;I take one last look, and push off onto the wave.&lt;br/&gt;Speeding down the glassy face a grin breaks onto my face, &lt;br/&gt;I have not a care in the world!&lt;br/&gt;Wind whips at my face, but I am unstoppable the wind can&#x2019;t slow me down.&lt;br/&gt;The world around me slowly slips away, and the initial adrenaline is lost.&lt;br/&gt;All that is left is myself, and the wave closing around me.&lt;br/&gt;Looking through the tube&lt;br/&gt;I find myself in the mind of the ocean, an aspiring glass blower,&lt;br/&gt;Carefully shaping the perfect tube, with just the right blend of colors. &lt;br/&gt;The brilliance of distorted oranges and reds of the sun streak across the foaming lip,&lt;br/&gt;and the most beautiful teal blue encapsulates me!&lt;br/&gt;The wave closes out.&lt;br/&gt;Dark sands infect the face of the wave,&lt;br/&gt; and sinister blues overtake the once jubilant hues.&lt;br/&gt;I take my last breath,&lt;br/&gt;and slip into the darkness...&lt;br/&gt;</description>
+      <iweb:image href="Media/object009.jpg"></iweb:image>
+      <iweb:comment enabled="0" count="0" link="http://rpang808.github.io/RTPWaveProject/Poems/Entries/2014/4/5_Contrast_of_the_Ocean.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>http://rpang808.github.io/RTPWaveProject/Poems</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

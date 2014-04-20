@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="9F866F57-9AB0-4697-A7D9-BEBA01816A64">
+  <lastEdited clientType="local-build-20140420" date="2014-04-20 22:55:04 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Ecstasy (incomplete)&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, April 5, 2014&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;A mighty pull...&#xD;Thousands of gallons of ocean water sift away from the opposing sands&#xD;Revealed is a wave, &#xD;&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="5_Entry_1_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

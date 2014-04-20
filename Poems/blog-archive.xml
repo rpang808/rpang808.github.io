@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<rss xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Poems</title>
+    <link>http://rpang808.github.io/RTPWaveProject/Poems</link>
+    <description>Powerful Words and Breathtaking photography are the closest description, 
+aside from the actual experience.
+Go Pro // iPhone 5s // Ocean // Nature
+Sandy Beach // Makapuu // Hawaii
+
+
+
+</description>
+    <item>
+      <title>Ecstasy (incomplete)</title>
+      <link>http://rpang808.github.io/RTPWaveProject/Poems/Entries/2014/4/5_Entry_1.html</link>
+      <guid isPermaLink="false">f4b21e8f-9c31-440f-b288-7810ea04a460</guid>
+      <pubDate>Sat, 5 Apr 2014 12:45:58 -1000</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://rpang808.github.io/RTPWaveProject/Poems/Entries/2014/4/5_Entry_1.html#comment_layer"></iweb:comment>
+    </item>
+    <item>
+      <title>Contrast</title>
+      <link>http://rpang808.github.io/RTPWaveProject/Poems/Entries/2014/4/5_Contrast_of_the_Ocean.html</link>
+      <guid isPermaLink="false">fd165eb2-28ea-415c-85c7-cad0d0ab6060</guid>
+      <pubDate>Sat, 5 Apr 2014 12:35:08 -1000</pubDate>
+      <iweb:comment enabled="0" count="0" link="http://rpang808.github.io/RTPWaveProject/Poems/Entries/2014/4/5_Contrast_of_the_Ocean.html#comment_layer"></iweb:comment>
+    </item>
+    <iweb:dateFormat>EEEE, MMMM d, y</iweb:dateFormat>
+    <iweb:baseURL>http://rpang808.github.io/RTPWaveProject/Poems</iweb:baseURL>
+    <iweb:maximumSummaryItems>5</iweb:maximumSummaryItems>
+  </channel>
+</rss>

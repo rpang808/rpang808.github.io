@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="9F866F57-9AB0-4697-A7D9-BEBA01816A64">
+  <lastEdited clientType="local-build-20140420" date="2014-04-20 22:55:04 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Contrast&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Saturday, April 5, 2014&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>As the wave approaches, &#xD;It slowly swells to a menacing size.&#xD;It&#x2019;s deep blue mass slides dangerously.&#xD;I paddle towards it, and my heart pumps violently.&#xD;The icy water ripples through my fingers.&#xD;Looking into the intimidating blue wall, there is a reflection of myself.&#xD;An unmatched glow of excitement and anxiety shines in my eyes,&#xD;But i tremble, my confidence wavers and for just a split second I doubt myself.&#xD;I take one last look, and push off onto the wave.&#xD;Speeding down the glassy face a grin breaks onto my face, &#xD;I have not a care in the world!&#xD;Wind whips at my face, but I am unstoppable the wind can&#x2019;t slow me down.&#xD;The world around me slowly slips away, and the initial adrenaline is lost.&#xD;All that is left is myself, and the wave closing around me.&#xD;Looking through the tube&#xD;I find myself in the mind of the ocean, an aspiring glass blower,&#xD;Carefully shaping the perfect tube, with just the right blend of colors. &#xD;The brilliance of distorted oranges and reds of the sun streak across the foaming lip,&#xD;and the most beautiful teal blue encapsulates me!&#xD;The wave closes out.&#xD;Dark sands infect the face of the wave,&#xD; and sinister blues overtake the once jubilant hues.&#xD;I take my last breath,&#xD;and slip into the darkness...&#xD;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="5_Contrast_of_the_Ocean_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>
