@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="9F866F57-9AB0-4697-A7D9-BEBA01816A64">
+  <lastEdited clientType="local-build-20140425" date="2014-04-26 05:38:39 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Perfection&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, April 25, 2014&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>They say a beautiful thing &#xD;isn&#x2019;t perfect...&#xD;&#xD;The quivering lip bubbles above the face of the wave&#xD;It is ready to leap and crash onto the water in its wake&#xD;It is then and there that time seems to halt &#xD;As if God himself takes a moment to admire his creation&#xD;Its crevices and curves,&#xD;The textures of sands and shells trapped in its walls,&#xD;Shades of rich deep blue gently faded into playful sea green,&#xD;And finally, a web of pure white sea foam woven carefully on the surface.&#xD;&#xD;Each wave is unique, just like a snowflake&#xD;The possibilities are limitless &#xD;And there can be no right or wrong&#xD;Undeniably, &#xD;waves are both beautiful and perfect &#xD;&#xD;&#xD;&#xD;&#xD;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="25_Perfection_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

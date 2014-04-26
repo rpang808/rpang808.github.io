@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="9F866F57-9AB0-4697-A7D9-BEBA01816A64">
+  <lastEdited clientType="local-build-20140425" date="2014-04-26 05:38:39 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Destruction (Perfection Part 2)&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Friday, April 25, 2014&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>The quivering lip bubbles above the face of the wave&#xD;It is ready to leap and crash onto the water in its wake,&#xD;&#xD;As frail and weak as the lip of the wave looks,&#xD;The might and strength of the ocean trails not far behind it&#xD;The waves graceful approach is followed by a violent eruption&#xD;A calm before the storm,&#xD;But before the wave breaks and crumbles&#xD;A brief glance of its unique beauty and perfection is allowed.&#xD;As brief as the moment was, the wave collides with the water below it&#xD;Upon impact the wave shatters like glass,&#xD;Beauty reduced to nothing in a matter of a split second&#xD;Like a gorgeous clay structure smashed into a meaningless blob,&#xD;The roar of millions of tons of water plowing into each other &#xD;Reverberates deep into the ocean depths,&#xD;The explosion is accompanied by a gentle spray of cool crisp mist.&#xD;&#xD;It is Yin and Yang&#xD;the correlation of dualities&#xD;The Yin, gentle and assiduous creation of a perfect wave&#xD;Followed by the Yang, violent and belligerent destruction of a wave&#xD;No good comes of their opposition,&#xD;But only in harmony together&#xD;can the two coexist.&#xD;&#xD; &#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;&#xD;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="25_Destruction_%28Perfection_Part_2%29_files/shapeimage_1.png" left="0px" top="0px" width="700px" height="400px"/>
+</content>

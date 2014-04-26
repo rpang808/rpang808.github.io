@@ -4,7 +4,7 @@
 .paragraph_style {
     color: rgb(0, 0, 0);
     font-family: 'ArialMT', 'Arial', sans-serif;
-    font-size: 15px;
+    font-size: 18px;
     font-stretch: normal;
     font-style: normal;
     font-variant: normal;
@@ -22,14 +22,6 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
-}
-.style_1 {
-    font-family: 'Times-Roman', 'Times', 'Times New Roman', serif;
-    font-size: 12px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 30px;
 }
 .style_SkipStroke_2 {
     background: transparent;
@@ -50,7 +42,7 @@
 .style_External_620_41 {
     position: relative;
 }
-.style_External_620_744 {
+.style_External_635_810 {
     position: relative;
 }
 .Color {
@@ -130,7 +122,7 @@
 .Normal_External_620_41 {
     position: relative;
 }
-.Normal_External_620_744 {
+.Normal_External_635_810 {
     position: relative;
 }
 .Previous {
