@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<content collectionGUID="9F866F57-9AB0-4697-A7D9-BEBA01816A64">
+  <lastEdited clientType="local-build-20140516" date="2014-05-16 18:00:07 +0000"/>
+  <textBox id="generic-title-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Sky&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-datefield-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;Wednesday, April 30, 2014&lt;/b&gt;</richText>
+  </textBox>
+  <textBox id="generic-body-attributes" dynamic="no" visible="yes">
+    <richText>&lt;b&gt;People claim they see Heaven on Earth&#xD;In some of the most beautiful and extravagant places&#xD;In reality heaven is right before our eyes&#xD;Some days heaven is a mystery,&#xD;A shroud of wispy clouds are strewn across endless blue&#xD;The sky protects our naivety and shields us from dangers,&#xD;Like the warm protective wings of a mother bird&#xD;but it also brings about a strong curiosity in mankind &#xD;Everyone wants to see what utopia lays beyond the sheath of blue&#xD;Or brilliant blanket of stars &#xD;But somedays I&#x2019;m content right where I am,&#xD;Gazing across the horizon I&#x2019;m in my own heaven on earth&#xD;Why ask for more?&#xD;&#xD;&lt;/b&gt;</richText>
+  </textBox>
+  <image id="generic-picture-attributes" dynamic="no" visible="yes" src="30_Sky_files/shapeimage_1.png" left="0px" top="0px" width="675px" height="319px"/>
+</content>
